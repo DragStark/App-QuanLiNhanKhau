@@ -6,4 +6,5 @@ App có các chức năng chính :
 - chuyển hộ khẩu
 - cho thuê thiết bị, phòng ốc, địa điểm
 - thống kê dân số theo độ tuổi
-*chạy app bằng công cụ Netbean  
+
+\emph{chạy app bằng công cụ Netbean}  
