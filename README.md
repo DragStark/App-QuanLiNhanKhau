@@ -7,4 +7,4 @@ App có các chức năng chính :
 - cho thuê thiết bị, phòng ốc, địa điểm
 - thống kê dân số theo độ tuổi
 
-\emph{chạy app bằng công cụ Netbean}  
+chạy app bằng công cụ Netbean
